@@ -12,6 +12,10 @@ I may have not included every code sample you've found in the book, but I have i
 
 If you have any questions about the code you see in the book, please reach out. Most of the exploration was performed using an current version of some of the libraries, so install or upgrade the prerequisite libraries in respective section.
 
+### Extracting Bot
+
+I have added an image extracting bot to extract images from instragram based on hashtags.
+
 ### Reference
 
 Code reference is based on [Hands-On Web Scraping with Python](https://www.packtpub.com/product/hands-on-web-scraping-with-python/9781789533392) book and [Code](https://github.com/PacktPublishing/Hands-On-Web-Scraping-with-Python) Repository
@@ -19,3 +23,4 @@ Code reference is based on [Hands-On Web Scraping with Python](https://www.packt
 ### Corrections?
 
 If you find any issues in these code examples, feel free to submit an Issue or Pull Request. I appreciate your input!
+
